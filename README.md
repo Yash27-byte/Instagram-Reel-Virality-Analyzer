@@ -2,67 +2,85 @@
 
 ## Project Overview
 
-This project analyzes Instagram Reel virality using Python, SQL, and Power BI/Tableau.
+This project analyzes Instagram Reel hashtag and content trends to identify patterns that contribute to higher engagement and content visibility.
 
-The goal is to understand what makes Instagram Reels go viral by studying:
-
-- Captions
-- Hashtags
-- Posting Time
-- Engagement Patterns
-- Audio Trends
-- Reel Duration
+The analysis focuses on hashtag usage, content categories, topic distribution, and hashtag popularity using Python and Power BI.
 
 ---
 
-## Technologies Used
+## Objectives
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- TextBlob
-- SQL (MySQL)
-- Power BI / Tableau
-- Jupyter Notebook
+* Analyze Instagram Reel content categories
+* Identify the most frequently used hashtags
+* Study hashtag distribution across topics
+* Measure average hashtag usage per reel
+* Build an interactive dashboard for content trend analysis
 
 ---
 
-## Features
+## Tools & Technologies
 
-- Viral Caption Analysis
-- Best Posting Time Detection
-- Hashtag Effectiveness Analysis
-- Engagement Rate Calculation
-- Sentiment Analysis
-- Dashboard Visualization
-- Trend Tracking
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* WordCloud
+* Power BI
+* VS Code
+
+---
+
+## Dashboard Insights
+
+### KPI Metrics
+
+* Average Hashtags Per Reel
+
+### Visualizations
+
+* Content Share by Topic (%)
+* Reel Volume by Category
+* Average Hashtags by Topic
+* Top 10 Trending Hashtags
+* Interactive Topic Filter
+
+---
+
+## Key Findings
+
+* Certain content categories use significantly more hashtags than others.
+* Trending hashtags such as reel, trend, explore, and viral dominate Instagram content.
+* Topic distribution reveals which content categories are most active on the platform.
+* Hashtag density varies across categories and influences discoverability.
 
 ---
 
 ## Project Structure
 
 Instagram_Reel_Virality_Analyzer/
-│
-├── data
-├── notebooks
-├── scripts
-├── dashboard
-├── screenshots
-└── README.md
+
+├── data/
+
+├── notebooks/
+
+├── dashboard/
+
+├── screenshots/
+
+├── README.md
+
+└── requirements.txt
 
 ---
 
-## Future Improvements
+## Dashboard Preview
 
-- Real-time trend tracking
-- AI-based virality prediction
-- Audio popularity forecasting
-- Machine learning integration
+(Add dashboard screenshot here)
 
 ---
 
 ## Author
 
 Yash Bhat
+
+Aspiring Data Analyst
