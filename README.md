@@ -75,7 +75,7 @@ Instagram_Reel_Virality_Analyzer/
 
 ## Dashboard Preview
 
-(Add dashboard screenshot here)
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
